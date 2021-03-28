@@ -1,6 +1,5 @@
 ### Hi there 👋 Nice to see you around! Welcome! <3 
 
-<!--
 
 - 🌱 I’m currently learning ... Java, Spring Boot
 - 👯 I’m looking to collaborate on ... Java, Spring Boot
@@ -9,4 +8,4 @@
 - 📫 How to reach me: ... [Gmail][amnesf@gmail.com]
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Lemon lover 🍋
--->
+
