@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Java, Spring Boot
 - 🤔 I’m looking for help with ... Java, Spring Boot
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin]:(https://www.linkedin.com/in/amne-fredo/)
+- 📫 How to reach me: ... [linkedin]:(https://www.linkedin.com/in/amne-fredo/)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Lemon lover 🍋
 
